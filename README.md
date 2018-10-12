@@ -2,13 +2,11 @@
 A list of resources for developers in [Nashville, TN](https://www.google.com/maps/place/Nashville,+TN).
 
 ## Table of Contents
-1. Community Organizations
-1. Meetup Groups
-1. Conferences
-    - Nashville
-    - Nearby Cities
-1. Hackathons
-1. Programming Bootcamps
+1. [Community Organizations](#community-organizations)
+1. [Meetup Groups](#meetup-groups)
+1. [Conferences](#conferences)
+1. [Hackathons](#hackathons)
+1. [Programming Bootcamps](#programming-bootcamps)
 
 ----
 
