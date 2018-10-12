@@ -77,18 +77,24 @@ A weeklong event for Middle Tennessee's tech community to learn, grow, and chall
 
 ## Higher Education Programs
 
-#### [Vanderbilt University](https://www.vanderbilt.edu/)
+#### Vanderbilt University
 
-[Computer Science B.S.](https://engineering.vanderbilt.edu/eecs/Undergraduate/index.php)
+[Website](https://www.vanderbilt.edu/)
 
-#### [Middle Tennessee State University](https://www.mtsu.edu/)
+Degree program: [Computer Science B.S.](https://engineering.vanderbilt.edu/eecs/Undergraduate/index.php)
 
-[Computer Science B.S.](https://www.mtsu.edu/programs/computer-science/)
+#### Middle Tennessee State University
+
+[Website](https://www.mtsu.edu/)
+
+Degree program: [Computer Science B.S.](https://www.mtsu.edu/programs/computer-science/)
 
 
-#### [Nashville State Community College](https://www.nscc.edu)
+#### Nashville State Community College
 
-[Computer Science, A.S.](https://www.nscc.edu/academics/degrees-certificates/computer-science-a-s)
+[Website](https://www.nscc.edu)
+
+Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-certificates/computer-science-a-s)
 
 ## Getting a Job
 
