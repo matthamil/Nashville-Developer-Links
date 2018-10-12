@@ -8,6 +8,7 @@ A list of resources for developers in [Nashville, TN](https://www.google.com/map
 1. [Hackathons](#hackathons)
 1. [Programming Bootcamps](#programming-bootcamps)
 1. [University Programs](#university-programs)
+1. [Getting a Job](#getting-a-job)
 1. [Bloggers and Content Creators](#bloggers-and-content-creators)
 
 ----
@@ -16,7 +17,7 @@ A list of resources for developers in [Nashville, TN](https://www.google.com/map
 
 #### [NashDev Slack](https://nashdev.com)
 
-Slack community with over 4,400 users. Download [Slack](https://slack.com/) and sign up.
+Slack community with over 4,400 users. Download [Slack](https://slack.com/) and sign up. 
 
 #### [TechFed Nashville](https://techfednashville.org/)
 
@@ -75,6 +76,12 @@ A weeklong event for Middle Tennessee's tech community to learn, grow, and chall
 [Reviews](https://www.coursereport.com/schools/covalence)
 
 ## University Programs
+
+## Getting a Job
+
+#### [NashDev Jobs](https://jobs.nashdev.com/)
+
+[Repo](https://github.com/nashdev/jobs). Created by [@egdelwonk](https://github.com/egdelwonk).
 
 ## Bloggers and Content Creators
 
