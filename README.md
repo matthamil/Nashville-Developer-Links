@@ -55,6 +55,10 @@ Two days of Node and JavaScript.
 
 ## Hackathons
 
+#### [Nash Hack Weekathon](https://nashhackweekathon.org)
+
+A weeklong event for Middle Tennessee's tech community to learn, grow, and challenge each other, which culminates in an open hackathon.
+
 ## Programming Bootcamps
 
 #### [Nashville Software School](http://nashvillesoftwareschool.com/)
