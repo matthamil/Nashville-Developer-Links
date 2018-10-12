@@ -17,6 +17,10 @@ A list of resources for developers in [Nashville, TN](https://www.google.com/map
 
 Slack community with over 4,400 users. Download [Slack](https://slack.com/) and sign up.
 
+#### [TechFed Nashville](https://techfednashville.org/)
+
+The Technologist Federation of Nashville is a non-profit organization dedicated to supporting and growing the grassroots tech talent in Middle Tennessee, including software developers, designers, product managers, marketers, entrepreneurs and anyone else whose work involves building tech, by providing opportunities to learn, share and connect.
+
 ## Meetup Groups
 
 #### [NashJS](https://www.meetup.com/nashjs/)
