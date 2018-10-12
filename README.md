@@ -7,6 +7,7 @@ A list of resources for developers in [Nashville, TN](https://www.google.com/map
 1. [Conferences](#conferences)
 1. [Hackathons](#hackathons)
 1. [Programming Bootcamps](#programming-bootcamps)
+1. [Bloggers and Content Creators](#bloggers-and-content-creators)
 
 ----
 
@@ -60,7 +61,10 @@ Two days of Node and JavaScript.
 
 [Reviews](https://www.coursereport.com/schools/nashville-software-school)
 
-
 #### [Covalence](http://nashvillesoftwareschool.com/)
 
 [Reviews](https://www.coursereport.com/schools/covalence)
+
+## Bloggers and Content Creators
+
+
