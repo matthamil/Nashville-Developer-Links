@@ -10,6 +10,7 @@ A list of resources for developers in [Nashville, TN](https://www.google.com/map
 1. [Higher Education Programs](#higher-education-programs)
 1. [Getting a Job](#getting-a-job)
 1. [Bloggers and Content Creators](#bloggers-and-content-creators)
+1. [Coffeeshops and Coworking Spaces](#coffeeshops-and-coworking-spaces)
 
 ----
 
