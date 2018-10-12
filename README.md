@@ -105,4 +105,6 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 
 ## Bloggers and Content Creators
 
+## Coffeeshops and Coworking Spaces
+
 
