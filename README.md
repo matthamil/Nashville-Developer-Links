@@ -99,6 +99,8 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 
 ## Getting a Job
 
+<!-- Recruiting agencies, Nashville-specific job resources -->
+
 #### [NashDev Jobs](https://jobs.nashdev.com/)
 
 [Repo](https://github.com/nashdev/jobs). Created by [@egdelwonk](https://github.com/egdelwonk).
