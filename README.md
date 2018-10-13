@@ -28,11 +28,15 @@ The Technologist Federation of Nashville is a non-profit organization dedicated 
 
 #### [NashJS](https://www.meetup.com/nashjs/)
 
-Hosted every 2nd Wednesday of the month at 6:00pm.
+Hosted on the 2nd Wednesday of the month at 6:00pm.
 
 #### [NashFP](http://nashfp.org/)
 
-Hosted every fourth Tuesday each month from 6:00pm to 8:30pm.
+Hosted on the fourth Tuesday of the month from 6:00pm to 8:30pm.
+
+#### [Nash |> Elixir](https://www.meetup.com/nash-elixir/)
+
+Hosted on the 3rd Tuesday of the month from 6:00pm.
 
 ## Conferences
 
