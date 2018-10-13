@@ -113,6 +113,8 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 
 @elijahmanor, [Twitter](https://twitter.com/elijahmanor), [Medium](https://medium.com/@elijahmanor), [Youtube](https://www.youtube.com/manorisms)
 
+@ryantablada, [Blog](http://ryantablada.com/), [Twitch](https://www.twitch.tv/onelastword)
+
 ## Coffeeshops and Coworking Spaces
 
 #### J & J's Market Midtown 
