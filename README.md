@@ -105,6 +105,10 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 
 ## Bloggers and Content Creators
 
+@steph_happens, [Twitter](https://twitter.com/steph_happens), [Twitch](https://www.twitch.tv/steph_happens)
+
 ## Coffeeshops and Coworking Spaces
 
-
+J & J's Market Midtown 
+[Yelp](https://www.yelp.com/biz/j-and-js-market-and-cafe-nashville-2) 
+[Google Maps](https://goo.gl/maps/wkeU7KS3c7Q2)
