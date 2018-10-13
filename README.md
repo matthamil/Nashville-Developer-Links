@@ -120,3 +120,9 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 [Yelp](https://www.yelp.com/biz/dose-coffee-and-tea-nashville)
 
 [Google Maps](https://goo.gl/maps/YPFEs23riuE2)
+
+#### Cafe Coco
+
+[Yelp](https://www.yelp.com/biz/cafe-coco-nashville)
+
+[Google Maps](https://goo.gl/maps/Z3kUru5ZwJU2)
