@@ -26,19 +26,12 @@ The Technologist Federation of Nashville is a non-profit organization dedicated 
 
 ## Meetup Groups
 
-#### [NashJS](https://www.meetup.com/nashjs/)
-
-Hosted on the 2nd Wednesday of the month at 6:00pm.
-
-#### [NashFP](http://nashfp.org/)
-
-Hosted on the fourth Tuesday of the month from 6:00pm to 8:30pm.
-
-#### [Nash |> Elixir](https://www.meetup.com/nash-elixir/)
-
-Hosted on the 3rd Tuesday of the month from 6:00pm.
-
-#### [Nashville Software Beginners](https://www.meetup.com/nashville-software-beginners/)
+| Name   | Hosted on       |  Time |
+|:----------|:-------------|:------|
+| [NashJS](https://www.meetup.com/nashjs/) |  2nd Wednesday of the month | 6:00pm |
+| [NashFP](http://nashfp.org/) |  4th Tuesday of the month   |   6:00pm |
+| [Nash \|> Elixir](https://www.meetup.com/nash-elixir/) | 3rd Tuesday of the month |    6:00pm |
+| [Nashville Software Beginners](https://www.meetup.com/nashville-software-beginners/) | n/a | 6:00pm |
 
 ## Conferences
 
