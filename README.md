@@ -35,6 +35,12 @@ The Technologist Federation of Nashville is a non-profit organization dedicated 
 
 ## Conferences
 
+#### [Emerge](https://anchorlink.vanderbilt.edu/event/2303901)
+
+> *Topics: artificial intelligence*
+
+Emerge will spotlight Artificial Intelligence and the way we interact with the technology in sectors ranging from medicine and health to finance. Attendees will have the opportunity to learn and discuss Artificial Intelligence, as well as connect with industry-leading speakers and sponsors.
+
 #### [Faith Leads Tech](http://faithleads.tech/)
 
 > *Topics: religion, software development*
