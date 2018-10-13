@@ -38,6 +38,8 @@ Hosted on the fourth Tuesday of the month from 6:00pm to 8:30pm.
 
 Hosted on the 3rd Tuesday of the month from 6:00pm.
 
+#### [Nashville Software Beginners](https://www.meetup.com/nashville-software-beginners/)
+
 ## Conferences
 
 #### [Faith Leads Tech](http://faithleads.tech/)
