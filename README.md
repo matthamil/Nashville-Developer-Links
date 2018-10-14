@@ -153,3 +153,10 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 [Yelp](https://www.yelp.com/biz/cafe-coco-nashville)
 
 [Google Maps](https://goo.gl/maps/Z3kUru5ZwJU2)
+
+#### Just Love Coffee & Eatery-Music Row
+
+[Yelp](https://www.yelp.com/biz/just-love-coffee-and-eatery-music-row-nashville-4)
+
+[Google Maps](https://goo.gl/maps/YBHAfRR24PM2)
+
