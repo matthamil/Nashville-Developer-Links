@@ -32,6 +32,20 @@ The Technologist Federation of Nashville is a non-profit organization dedicated 
 | [NashFP](http://nashfp.org/) |  4th Tuesday of the month   |   6:00pm |
 | [Nash \|> Elixir](https://www.meetup.com/nash-elixir/) | 3rd Tuesday of the month |    6:00pm |
 | [Nashville Software Beginners](https://www.meetup.com/nashville-software-beginners/) | n/a | 6:00pm |
+| [Nashville Mobile Developers](https://www.meetup.com/NashvilleMDUG/) | last Tuesday of the month | 6:00pm |
+| [Nashville API Developers](https://www.meetup.com/NashAPI/) | n/a | 6:00pm |
+| [Nashville Blockchain Developers Network](https://www.meetup.com/Nashville-Blockchain-Developers-Network/) | n/a | 6:00pm |
+| [Developer Launchpad Nashville](https://www.meetup.com/Developer-Launchpad-Nashville/) | n/a | 6:00pm |
+| [Nashville Game Developers](https://www.meetup.com/NashGameDev/) | n/a | 6:00pm |
+| [Nashville Salesforce Developer Group](https://www.meetup.com/Nashville-Salesforce-Developer-User-Group/) | n/a | 6:00pm |
+| [Girl Develop It Nashville](https://www.meetup.com/Girl-Develop-It-Nashville/) | n/a | 6:00pm |
+| [State & Local Government Developers Network](https://www.meetup.com/SLGDN_Nashville/) | n/a | 5:30pm |
+| [Nashville Mobile .NET Developers](https://www.meetup.com/NashvilleMobileDotNet/) | n/a | 5:30pm |
+| [freeCodeCamp Nashville](https://www.meetup.com/freeCodeCamp-Nashville/) | 1st Saturday of the month | 2:30pm |
+| [The Nashville Microsoft Azure Users Group](https://www.meetup.com/The-Nashville-Microsoft-Azure-Users-Group/) | n/a | 6:00pm |
+| [Code for Nashville](https://www.meetup.com/code-for-nashville/) | n/a | 6:00pm |
+| [Nashville .NET User Group](https://www.meetup.com/Nashville-NET-User-Group/) | 2nd Thursday of the month | 5:30pm |
+| [Nashville PHP](https://www.meetup.com/nashvillephp/) | n/a | 6:00pm |
 
 ## Conferences
 
