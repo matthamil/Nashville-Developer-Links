@@ -143,12 +143,6 @@ Degree program: [Computer Science, A.S.](https://www.nscc.edu/academics/degrees-
 
 ## Coffeeshops and Coworking Spaces
 
-#### J & J's Market Midtown
-
-[Yelp](https://www.yelp.com/biz/j-and-js-market-and-cafe-nashville-2)
-
-[Google Maps](https://goo.gl/maps/wkeU7KS3c7Q2)
-
 #### Dose Coffee & Tea
 
 [Yelp](https://www.yelp.com/biz/dose-coffee-and-tea-nashville)
