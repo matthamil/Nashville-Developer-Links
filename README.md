@@ -87,6 +87,12 @@ Two days of Node and JavaScript.
 
 PyTennessee is a yearly regional Python conference held every February in Nashville, TN.
 
+#### [Underground JS](https://undergroundjs.com/)
+
+> _Topics: javascript_
+
+Underground JS is a community-driven single day conference in Nashville focused on JavaScript and its ecosystem, but more importantly, our Nashville community.
+
 ## Hackathons
 
 #### [Nash Hack Weekathon](https://nashhackweekathon.org)
